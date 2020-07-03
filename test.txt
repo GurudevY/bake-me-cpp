@@ -1,0 +1,6 @@
+cream;circle,square,triangle;2500;125;99;
+honey;square;2500;11;275;
+vanilla;circle,round,rectangle;2500;15;199;
+nut;square,tringle,oval,triangle,rectangle;2000;25;199;
+flour;circle,oval,star,square;1500;100;90;
+rawa;circle,square,triangle;5000;50;299;

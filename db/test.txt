@@ -1,0 +1,1 @@
+oil3;star,circle;99;112;9;

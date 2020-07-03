@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1534157910 source:d:\gurudev sprint\new folder\bake me\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"ingredient.h"
+	"item.h"
+	"ui.h"
+
+1534103006 d:\gurudev sprint\new folder\bake me\ingredient.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1534152901 source:d:\gurudev sprint\new folder\bake me\ingredient.cpp
+	"ingredient.h"
+	<string>
+	<vector>
+	<iostream>
+	<stdlib.h>
+	<bits/stdc++.h>
+	<fstream>
+	<sstream>
+	<cstdlib>
+
+1534158329 source:d:\gurudev sprint\new folder\bake me\ui.cpp
+	"ui.h"
+	"ingredient.h"
+	<string>
+	<vector>
+	<conio.h>
+	<iostream>
+	<limits>
+	<fstream>
+	<sstream>
+	<bits/stdc++.h>
+	<cstdlib>
+
+1534153441 d:\gurudev sprint\new folder\bake me\ui.h
+	"ingredient.h"
+	"item.h"
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1534164942 d:\gurudev sprint\new folder\bake me\item.h
+	"ingredient.h"
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1534159434 source:d:\gurudev sprint\new folder\bake me\item.cpp
+	"item.h"
+	"ingredient.h"
+	<string>
+	<vector>
+	<iostream>
+	<stdlib.h>
+	<bits/stdc++.h>
+	<fstream>
+	<sstream>
+	<cstdlib>
+
