@@ -19,9 +19,9 @@ Oil
 
 B. Constraints: Bakery things can't have a specific shape if the ingredients have explicit material. For instance: 
 
-Round shape is preposterous if fixing "Sweet heating pop" is utilized 
+"Round shape" is preposterous if fixing "Sweet Baking Soda" is utilized 
 
-Star shape is beyond the realm of imagination if fixing contains Nuts 
+"Star shape" is beyond the realm of imagination if fixing contains Nuts 
 
 Structure a Shapes machine which will make a shape for the thing if no standard is broken. 
 
