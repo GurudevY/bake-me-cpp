@@ -33,7 +33,7 @@ class Item
         double getCalorie();
         double getTime();
 
-        void write_file(vector<Ingredient>& it)
+        void write_file(vector<Ingredient>& it);
 
     protected:
 
